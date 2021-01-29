@@ -1,0 +1,17 @@
+Exemple architecture composants
+https://github.com/MenaiAla/react-navigation
+
+Lien de l'application
+https://pure-brook-73362.herokuapp.com/
+
+Explications heroku avec node
+https://devcenter.heroku.com/articles/getting-started-with-nodejs
+
+Lien settings app heroku
+https://dashboard.heroku.com/apps/pure-brook-73362/settings
+
+Lien dépot github
+https://github.com/Loic2A/blog-f1
+
+Exemples de menus
+https://reactjsexample.com/tag/menu/
